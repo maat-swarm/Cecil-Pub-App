@@ -1,0 +1,6 @@
+{
+  "name": "Cecil's Pub Manager",
+  "description": "AI-powered tavern operations assistant for Cecil's Pub in Tembisa, South Africa. Track stock, picks, deliveries, orders, sales, and live AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
